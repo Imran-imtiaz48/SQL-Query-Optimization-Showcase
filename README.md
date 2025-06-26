@@ -83,10 +83,13 @@ You can run this script for both original and optimized queries to compare perfo
 
 You can also open these files in any SQL IDE like DBeaver, SSMS, or DataGrip.
 
-## ✅ Use Cases
-- Performance tuning practice
-- SQL portfolio for job interviews
-- Teaching and internal workshops
+## 🎯 Use Cases
+
+- Performance tuning practice  
+- SQL portfolio for job interviews  
+- Teaching and internal workshops  
+- Learning query design patterns  
+- Benchmarking and performance analysis
 
 ## 📌 Tips
 See [sql_query_tips.md](tips/sql_query_tips.md) for useful query writing guidelines.
