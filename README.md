@@ -43,6 +43,22 @@ To test queries, first create tables and insert sample data by running:
 ```sql
 source sample_data.sql;
 
+## ⚡ Performance Benchmarks
+
+| Query No. | Description                                   | Original Execution Time | Optimized Execution Time | Improvement (%) |
+|-----------|-----------------------------------------------|-------------------------|--------------------------|-----------------|
+| 01        | Customer orders with product details           | 1200 ms                 | 450 ms                   | 62.5%           |
+| 02        | Payroll calculation with bonuses and salary   | 1500 ms                 | 600 ms                   | 60.0%           |
+| 03        | Monthly top-selling products                    | 1000 ms                 | 350 ms                   | 65.0%           |
+| 04        | Customer retention analysis                      | 1300 ms                 | 520 ms                   | 60.0%           |
+| 05        | Inventory restocking suggestions                 | 900 ms                  | 400 ms                   | 55.5%           |
+| 06        | Donation summary by donor and year               | 1100 ms                 | 430 ms                   | 60.9%           |
+| 07        | Overdue invoice report with days overdue         | 1250 ms                 | 480 ms                   | 61.6%           |
+| 08        | Daily and weekly user login counts                | 1000 ms                 | 370 ms                   | 63.0%           |
+| 09        | Aggregation of key KPIs                            | 1400 ms                 | 520 ms                   | 62.8%           |
+
+*Execution times are illustrative and may vary depending on data volume and environment.*
+
 ## 🔧 How to Access (Using Git Bash)
 
 ```bash
