@@ -6,16 +6,6 @@ This project contains a collection of complex SQL queries followed by their opti
 - `queries/`: Original and optimized SQL query pairs.
 - `tips/sql_query_tips.md`: Best practices and tips for writing efficient SQL.
 - `README.md`: Overview and instructions.
-SQL-Query-Optimization-Showcase/
-├── queries/
-│ ├── 01_large_query.sql
-│ ├── 01_optimized_query.sql
-│ ├── 02_large_query.sql
-│ ├── 02_optimized_query.sql
-│ └── ...
-├── tips/
-│ └── sql_query_tips.md
-├── README.md
 
 ## 🔧 How to Access (Using Git Bash)
 
