@@ -67,6 +67,20 @@ cd SQL-Query-Optimization-Showcase
 cat queries/01_large_query.sql
 ```
 
+## ⚡ Performance Benchmarking
+
+This project includes a SQL script `benchmark_queries.sql` to measure and record execution times of all queries.
+
+### How to use:
+
+1. Make sure your database is set up with the sample data (see `sample_data.sql`).
+2. Open and review `benchmark_queries.sql`.
+3. Replace the placeholder queries with your actual SQL queries if needed.
+4. Run the script in your SQL Server environment.
+5. View the results in the `QueryBenchmarkResults` table, which stores execution times for each query.
+
+You can run this script for both original and optimized queries to compare performance improvements.
+
 You can also open these files in any SQL IDE like DBeaver, SSMS, or DataGrip.
 
 ## ✅ Use Cases
