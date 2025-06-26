@@ -35,6 +35,13 @@ This project contains a collection of complex SQL queries followed by their opti
 
 9. **Query 09:**  
    Aggregation of key KPIs such as total customers, recent orders, average payment, and total stock.
+   
+### 🛠️ Setup Sample Data
+
+To test queries, first create tables and insert sample data by running:
+
+```sql
+source sample_data.sql;
 
 ## 🔧 How to Access (Using Git Bash)
 
