@@ -1,6 +1,6 @@
 # SQL Query Optimization Showcase
 
-This project contains a collection of complex SQL queries followed by their optimized versions. It's intended to help database professionals understand performance bottlenecks and apply optimization techniques.
+The project contains a collection of complex SQL queries followed by their optimized versions. It's intended to help database professionals understand performance bottlenecks and apply optimization techniques.
 
 ## 📁 Folder Structure
 - `queries/`: Original and optimized SQL query pairs.
